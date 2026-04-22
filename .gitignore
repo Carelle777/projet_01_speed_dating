@@ -1,0 +1,19 @@
+# Données (trop lourdes pour GitHub)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environnement
+.env
+.venv/
+env/
+
+# macOS
+.DS_Store
