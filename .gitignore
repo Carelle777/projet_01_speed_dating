@@ -17,3 +17,7 @@ env/
 
 # macOS
 .DS_Store
+
+notebooks/iframe_figures/
+*.docx
+.ipynb_checkpoints/
